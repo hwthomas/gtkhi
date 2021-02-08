@@ -1,0 +1,10 @@
+/home/hwt/Projects/gtkhi/gtkhi/bin/Debug/gtkhi.exe
+/home/hwt/Projects/gtkhi/gtkhi/bin/Debug/gtkhi.pdb
+/home/hwt/Projects/gtkhi/gtkhi/bin/Debug/glade-sharp.dll
+/home/hwt/Projects/gtkhi/gtkhi/bin/Debug/glade-sharp.pdb
+/home/hwt/Projects/gtkhi/gtkhi/bin/Debug/glade-sharp.dll.config
+/home/hwt/Projects/gtkhi/gtkhi/obj/x86/Debug/gtkhi.csprojAssemblyReference.cache
+/home/hwt/Projects/gtkhi/gtkhi/obj/x86/Debug/gtkhi.csproj.CoreCompileInputs.cache
+/home/hwt/Projects/gtkhi/gtkhi/obj/x86/Debug/gtkhi.csproj.CopyComplete
+/home/hwt/Projects/gtkhi/gtkhi/obj/x86/Debug/gtkhi.exe
+/home/hwt/Projects/gtkhi/gtkhi/obj/x86/Debug/gtkhi.pdb

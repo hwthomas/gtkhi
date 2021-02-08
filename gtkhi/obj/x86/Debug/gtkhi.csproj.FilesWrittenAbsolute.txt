@@ -1,0 +1,5 @@
+/home/hwt/Projects/gtkhi/gtkhi/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/hwt/Projects/gtkhi/gtkhi/bin/Debug/gtkhi.pdb
+/home/hwt/Projects/gtkhi/gtkhi/bin/Debug/gtkhi.exe
+/home/hwt/Projects/gtkhi/gtkhi/obj/x86/Debug/gtkhi.exe
+/home/hwt/Projects/gtkhi/gtkhi/obj/x86/Debug/gtkhi.pdb
